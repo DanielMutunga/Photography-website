@@ -36,11 +36,24 @@
 .navbar a{
     text-decoration: none;
     cursor: pointer;
-
+    color: white;
+    font-weight: 600;
+}
+.navbar a:hover{
+    text-decoration: underline;
+    color: red;
 }
 .navbar li{
     list-style: none;
     margin-left: 30px;
+}
+.navbar button{
+    margin-left: 30px;
+    background-color: lightblue;
+    color: white;
+    border: none;
+    padding: 10px 10px;
+    border-radius: 5px;
 }
 .centerdiv .banner{
     height: 85%;
