@@ -5,7 +5,7 @@
 .sectionone{
     height: 100vh;
     width: 100vw;
-    background-image: url(../Images/background.jpg);
+    background-image: linear-gradient(rgba(0, 0, 0, 0.85), rgba(0, 0, 0, 0.85)),url(../Images/pexels-pixabay-247676.jpg);
     background-position: center;
     background-size: cover;
     display: flex;
@@ -14,20 +14,20 @@
 }
 .sectionone .centerdiv{
     height: 90%;
-    width: 85%;
-    /* background-color: aliceblue; */
-
+    width: 75%;
 }
 .centerdiv .header{
     height: 15%;
     width: 100%;
-    /* background-color: blue; */
     display: flex;
     flex-direction: row;
     justify-content: space-between;
 }
+.sectionone img{
+    margin-left: 110px;
+}
 .header .navbar{
-    margin-right: 25%;
+    margin-right: 18%;
     display: flex;
     flex-direction: row;
     align-items: center;
@@ -40,23 +40,64 @@
     font-weight: 600;
 }
 .navbar a:hover{
-    text-decoration: underline;
-    color: red;
+    color: rgb(22, 179, 231);
 }
 .navbar li{
     list-style: none;
     margin-left: 30px;
+    font-family: monospace;
+    font-size: 18px;
 }
 .navbar button{
     margin-left: 30px;
-    background-color: lightblue;
+    background-color: rgb(22, 179, 231);
     color: white;
     border: none;
     padding: 10px 10px;
     border-radius: 5px;
+    font-size: 16px;
+    font-weight: 500;
+    transition: 1s;
+}
+.navbar button:hover{
+    background-color: white;
+    color: rgb(22, 179, 231);
 }
 .centerdiv .banner{
     height: 85%;
     width: 100%;
-    /* background-color: gray; */
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.banner p{
+    color: white;
+    font-family: monospace;
+    /* font-family: 'Times New Roman', Times, serif; */
+    font-weight: 600;
+    font-size: 35px;
+    text-align: center;
+}
+.banner button{
+    color: white;
+    background-color: rgb(22, 179, 231);
+    border: none;
+    padding: 9px 7px;
+    font-size: 17px;
+    font-weight: 500;
+    cursor: pointer;
+    margin-top: 20px;
+    border-radius: 15px;
+    transition: 1s;
+}
+.banner button:hover{
+    color: rgb(22, 179, 231);
+    background-color: #fff;
+}
+/* END OF SECTION TWO */
+.sectiontwo{
+    height: 80vh;
+    width: 100vw;
+    background-color: rgba(0, 0, 0, 0.90);
 }
