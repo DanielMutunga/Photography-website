@@ -1,11 +1,12 @@
 *{
     padding: 0;
     margin: 0;
+    font-family: monospace, sans-serif;
 }
 .sectionone{
-    height: 100vh;
+    height: 75vh;
     width: 100vw;
-    background-image: linear-gradient(rgba(0, 0, 0, 0.85), rgba(0, 0, 0, 0.85)),url(../Images/pexels-pixabay-247676.jpg);
+    background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)),url(../Images/background.jpg);
     background-position: center;
     background-size: cover;
     display: flex;
@@ -89,15 +90,25 @@
     cursor: pointer;
     margin-top: 20px;
     border-radius: 15px;
-    transition: 1s;
+    /* transition: 1s; */
+    margin-top: 50px;
 }
 .banner button:hover{
+    border: solid 2px rgb(22, 179, 231);
     color: rgb(22, 179, 231);
-    background-color: #fff;
+    background-color: transparent;
 }
 /* END OF SECTION TWO */
 .sectiontwo{
     height: 80vh;
     width: 100vw;
-    background-color: rgba(0, 0, 0, 0.90);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: rgba(255, 255, 255, 0.90);
+}
+.sectiontwo .centerdiv{
+    height: 90%;
+    width: 80%;
+    background-color: aquamarine;
 }
