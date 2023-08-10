@@ -173,14 +173,26 @@
 .upperdiv .one{
     height: 100%;
     width: 32%;
+    background-image: url(../Images/Baby_Photography\ \(1\).jpg);
+    background-position: center;
+    background-size: cover;
+    border-radius: 5px;
 }
 .upperdiv .two{
     height: 100%;
     width: 32%;
+    background-image: url(../Images/Fashion_Photography.jpg);
+    background-position: center;
+    background-size: cover;
+    border-radius: 5px;
 }
 .upperdiv .three{
     height: 100%;
     width: 32%;
+    background-image: url(../Images/Graduation_Photography\ \(6\).jpg);
+    background-position: center;
+    background-size: cover;
+    border-radius: 5px;
 }
 .albumDiv .lowerdiv{
     height: 48%;
@@ -192,12 +204,24 @@
 .lowerdiv .one{
     height: 100%;
     width: 32%;
+    background-image: url(../Images/Sports_Photography\ \(4\).jpg);
+    background-position: center;
+    background-size: cover;
+    border-radius: 5px;
 }
 .lowerdiv .two{
     height: 100%;
     width: 32%;
+    background-image: url(../Images/Wedding_Photography\ \(5\).jpg);
+    background-position: center;
+    background-size: cover;
+    border-radius: 5px;
 }
 .lowerdiv .three{
     height: 100%;
     width: 32%;
+    background-image: url(../Images/Wildlife_Photography.jpg);
+    background-position: center;
+    background-size: cover;
+    border-radius: 5px;
 }
