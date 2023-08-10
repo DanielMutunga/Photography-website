@@ -110,5 +110,28 @@
 .sectiontwo .centerdiv{
     height: 90%;
     width: 80%;
-    background-color: aquamarine;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.sectiontwo .centerdiv h3{
+    font-size: 34px;
+    margin-bottom: 25px;
+    text-decoration: underline;
+}
+.centerdiv .center{
+    margin-top: 35px;
+    margin-bottom: 35px;
+}
+.centerdiv .last{
+    margin-bottom: 70px;
+}
+.sectiontwo button{
+    padding: 10px 7px;
+    border: solid 2px rgb(22, 179, 231);
+    font-weight: 600;
+    border-radius: 25px;
+    background-color: transparent;
+    cursor: pointer;
 }
