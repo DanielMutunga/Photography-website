@@ -265,3 +265,32 @@
     height: 100%;
     width: 32%;
 }
+.people a{
+    text-decoration: none;
+}
+.people img{
+    border-radius: 10px;
+}
+.people span{
+    color: rgb(22, 179, 231);
+    font-style: italic;
+}
+/* End of section Four */
+
+/* Start of section Five */
+.sectionfive{
+    height: 50vh;
+    width: 100vw;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: rgba(255, 255, 255, 0.20);
+}
+.sectionfive .centerdiv{
+    height: 90%;
+    width: 80%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+}
