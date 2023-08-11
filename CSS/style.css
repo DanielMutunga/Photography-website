@@ -285,7 +285,7 @@
     flex-direction: column;
     align-items: center;
     justify-content: center;
-    background-color: rgba(255, 255, 255, 0.20);
+    background-color: rgba(0, 0, 0, 0.10);
 }
 .sectionfive .centerdiv{
     height: 90%;
@@ -294,7 +294,7 @@
     flex-direction: row;
     align-items: center;
     justify-content: space-evenly;
-    background-color: aquamarine;
+    /* background-color: aquamarine; */
 }
 .sectionfive .footer{
     height: 10%;
@@ -313,7 +313,44 @@
     align-items: flex-start;
     justify-content: center;
     text-align: start;
-    border: solid 2px blue;
+    border: solid 1px gray;
+    border-radius: 5px;
+}
+.label{
+    margin-left: 20px;
+    margin-bottom: 10px;
+}
+input{
+    margin-left: 20px;
+    margin-bottom: 7px;
+    width: 85%;
+    height: 30px;
+    border-radius: 5px;
+    border: solid 1px rgb(22, 179, 231);;
+}
+.button{
+    margin-left: 20px;
+}
+.sectionfive button{
+    padding: 10px 15px;
+    border-radius: 15px;
+    border: none;
+    color: white;
+    cursor: pointer;
+    font-size: 15px;
+    background-color: rgb(22, 179, 231);
+}
+input::placeholder{
+    color: blue;
+    font-size: small;
+    padding: 10px;
+}
+.sectionfive button:hover{
+    background-color: transparent;
+    border: solid 1px rgb(22, 179, 231);
+    color: rgb(22, 179, 231);
+    
+    font-weight: 900;
 }
 .centerdiv .contacts{
     height: 250px;
@@ -321,5 +358,11 @@
     display: flex;
     align-items: center;
     justify-content: center;
-    border: solid 2px blue;
+    border: solid 1px gray;
+    border-radius: 5px;
 }
+.contacts p{
+    line-height: 2.2;
+}
+/* End of section five */
+/* End of the project */
