@@ -93,6 +93,11 @@
     /* transition: 1s; */
     margin-top: 50px;
 }
+.banner a{
+    text-decoration: none;
+    color: white;
+    font-weight: 800;
+}
 .banner button:hover{
     border: solid 2px rgb(22, 179, 231);
     color: rgb(22, 179, 231);
@@ -233,7 +238,7 @@
 
 /* START OF SECTION FOUR */
 .sectionfour{
-    height: 50vh;
+    height: 65vh;
     width: 100%;
     display: flex;
     align-items: center;
@@ -256,10 +261,12 @@
 .maindiv .photographer1{
     height: 100%;
     width: 32%;
+    border-right: solid 1px rgb(22, 179, 231);
 }
 .maindiv .photographer2{
     height: 100%;
     width: 32%;
+    border-right: solid 1px rgb(22, 179, 231);
 }
 .maindiv .photographer3{
     height: 100%;
@@ -270,10 +277,14 @@
 }
 .people img{
     border-radius: 10px;
+    border-radius: 50%;
 }
 .people span{
     color: rgb(22, 179, 231);
     font-style: italic;
+}
+.people p{
+    line-height: 1.7;
 }
 /* End of section Four */
 
