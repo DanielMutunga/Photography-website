@@ -183,6 +183,26 @@
     background-size: cover;
     border-radius: 5px;
 }
+.one .Baby{
+    height: 100%;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    opacity: o;
+}
+.one .Baby:hover{
+    opacity: 0.6;
+    background-color: rgb(22, 179, 231);
+}
+.albumDiv p{
+    font-size: 35px;
+    color: white;
+    opacity: 0;
+}
+.albumDiv p:hover{
+    opacity: 1;
+}
 .upperdiv .two{
     height: 100%;
     width: 32%;
@@ -190,6 +210,18 @@
     background-position: center;
     background-size: cover;
     border-radius: 5px;
+}
+.two .Fashion{
+    height: 100%;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    opacity: o;
+}
+.two .Fashion:hover{
+    opacity: 0.6;
+    background-color: rgb(22, 179, 231);
 }
 .upperdiv .three{
     height: 100%;
@@ -199,12 +231,36 @@
     background-size: cover;
     border-radius: 5px;
 }
+.three .Graduation{
+    height: 100%;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    opacity: o;
+}
+.three .Graduation:hover{
+    opacity: 0.6;
+    background-color: rgb(22, 179, 231);
+}
 .albumDiv .lowerdiv{
     height: 48%;
     width: 100%;
     display: flex;
     flex-direction: row;
     justify-content: space-between;
+}
+.one .Sports{
+    height: 100%;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    opacity: o;
+}
+.one .Sports:hover{
+    opacity: 0.6;
+    background-color: rgb(22, 179, 231);
 }
 .lowerdiv .one{
     height: 100%;
@@ -222,6 +278,18 @@
     background-size: cover;
     border-radius: 5px;
 }
+.two .Wedding{
+    height: 100%;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    opacity: o;
+}
+.two .Wedding:hover{
+    opacity: 0.6;
+    background-color: rgb(22, 179, 231);
+}
 .lowerdiv .three{
     height: 100%;
     width: 32%;
@@ -229,6 +297,18 @@
     background-position: center;
     background-size: cover;
     border-radius: 5px;
+}
+.three .Wildlife{
+    height: 100%;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    opacity: o;
+}
+.three .Wildlife:hover{
+    opacity: 0.8;
+    background-color: rgb(22, 179, 231);
 }
 .maindiv h1{
     margin-bottom: 10px;
