@@ -453,8 +453,18 @@ input::placeholder{
     border: solid 1px gray;
     border-radius: 5px;
 }
+
 .contacts p{
     line-height: 2.2;
+}
+.centerdiv .media{
+    height: 250px;
+    width: 350px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: solid 1px gray;
+    border-radius: 5px;
 }
 /* End of section five */
 /* End of the project */
