@@ -20,3 +20,6 @@ CSS
 ![html_code](https://github.com/DanielMutunga/Photography-website/assets/122822041/33cefca3-a90f-44ef-a263-6d46b5e78da0)
 #### Section of CSS code
 ![CSS_file](https://github.com/DanielMutunga/Photography-website/assets/122822041/3e31d592-4798-46f4-9111-4358d0ca945a)
+
+###### Link to View the website;
+[https://github.com/DanielMutunga/Photography-website](https://danielmutunga.github.io/Photography-website/)https://danielmutunga.github.io/Photography-website/
