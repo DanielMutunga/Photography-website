@@ -12,3 +12,11 @@ It remembers the little things, long after you have forgotten everything. Create
 html
 CSS
 
+#### Home Page.
+![landingpage](https://github.com/DanielMutunga/Photography-website/assets/122822041/ac2f7d9b-0813-4428-97c6-4cf1d5baaec1)
+#### Album Section.
+![Capture](https://github.com/DanielMutunga/Photography-website/assets/122822041/42fa7f98-3826-4364-8126-b6134b91c091)
+#### Section of html code
+![html_code](https://github.com/DanielMutunga/Photography-website/assets/122822041/33cefca3-a90f-44ef-a263-6d46b5e78da0)
+#### Section of CSS code
+![CSS_file](https://github.com/DanielMutunga/Photography-website/assets/122822041/3e31d592-4798-46f4-9111-4358d0ca945a)
