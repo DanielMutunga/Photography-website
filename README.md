@@ -22,4 +22,4 @@ CSS
 ![CSS_file](https://github.com/DanielMutunga/Photography-website/assets/122822041/3e31d592-4798-46f4-9111-4358d0ca945a)
 
 ###### Link to View the website;
-[https://github.com/DanielMutunga/Photography-website](https://danielmutunga.github.io/Photography-website/)https://danielmutunga.github.io/Photography-website/
+https://danielmutunga.github.io/Photography-website/
